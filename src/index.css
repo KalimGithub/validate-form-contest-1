@@ -30,6 +30,7 @@ form{
   align-items: center;
   text-align: left;
   align-items: flex-start;
+  gap: 30px;
 }
 input{
   width: 100% !important;
